@@ -26,9 +26,9 @@ Metric: MAP@3
 ## Results
 | Model | MAP@3 |
 |-------|-------|
-| Random Baseline | - |
-| Longest Option | - |
-| TF-IDF | - |
-| ANN | - |
-| Sentence-BERT | - |
+| Random Baseline | 0.3707 |
+| Longest Option | 0.5763 |
+| TF-IDF | 0.3610 |
+| ANN |  |
+| Sentence-BERT |  |
 ---
