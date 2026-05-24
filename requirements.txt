@@ -1,0 +1,12 @@
+torch
+transformers
+sentence-transformers
+wandb
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+groq
+jupyter
+librosa
